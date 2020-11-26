@@ -1,0 +1,120 @@
+.top_div
+{
+    height: 100px;
+    background-color: #4867aa;
+    color: #FFF;
+}
+body
+{
+   /* background-color : #DFE1EE;*/
+}
+.f
+{
+    float: right;
+    margin : 5px;
+    margin-top: 20px;
+}
+.cl
+{
+    clear: left;
+}
+.add
+{
+    margin-top: 37px;
+    margin-right: 100px;
+}
+.but
+{
+    background-color: #00009F;
+    color : #FFF;
+}
+a
+{
+    font-size: small;
+    text-decoration: none;
+    color: #A9A9A9;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.te
+{
+    padding:  30px 0 0 200px;
+    width: 400px;
+    background-color: #F00;
+}
+.div2
+{
+    margin-top:0;
+    padding-top:0;
+}
+p
+{
+    color : #00008B;
+    font-weight:900;
+    padding: 30px 0 0 200px;
+    font-size: 20px;
+    width: 400px;
+    line-height: 30px;
+}
+img
+{
+    width : 200px;
+    padding : 0 0 0 200px;
+}
+.d2
+{
+    float : right;
+}
+h1
+{
+    margin-right: 238px;
+}
+h3
+{
+    margin-top: -15px;
+    padding: 0;
+}
+.f3
+{
+    height: 30px;
+    margin : 0 10px 5px 0;
+}
+.f4
+{
+    height: 30px;
+    width: 323px;
+    margin: 5px 0;
+}
+.lab
+{
+    color : #747477;
+    line-height: 30px;
+    font-weight: bold;
+}
+.sel
+{
+    width : 70px;
+    height: 30px;
+}
+h5
+{
+    font-size:10px;
+    width : 250px;
+}
+.sp:hover
+{
+    text-decoration: underline;
+    color : #4867aa;
+    
+}
+.in
+{
+    background-color : #57d748;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    color : #FFF;
+    font-size: 30px;
+}
